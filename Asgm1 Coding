@@ -1,0 +1,197 @@
+package asgm1;
+
+import java.util.Scanner;
+
+public class Camera {
+
+	private static Scanner scan;
+	public static void main(String[] args) {
+		// TODO Auto-generated method stub
+		
+		String name;
+		String icNum;
+		String email;
+		String brand;
+		String camera;
+		String acs;
+		String warranty;
+		float priceCam;
+		float priceAcs;
+		float priceWty;
+		float total;
+		float deliveryFee;
+		float protectionFee;
+		int discount;
+		scan = new Scanner(System.in);
+		
+		System.out.print("Please enter your name: ");
+		name = scan.next();
+		System.out.print("Please enter your IC number: ");
+		icNum = scan.next();
+		System.out.print("Please enter your email: ");
+		email = scan.next();
+		
+		System.out.println(" 	              _____             ");
+		System.out.println("  	     ___     / [X] \\    _____    ");
+		System.out.println("	 __.|___|.__/_______\\__-LLLLL-__");
+		System.out.println("	/                               \\");
+		System.out.println("	|===============================|");
+		System.out.println("	|            .-'''-.     [__]   |");
+		System.out.println("	|           /.\"\"\"\"\".\\           |");
+		System.out.println("	|          // /\" \"\\ \\\\_)        |");
+		System.out.println("	|          \\\\ \\___/ //          |");
+		System.out.println("	|           \\`.___.'/           |");
+		System.out.println("	|============`-...-' ===========|");
+		System.out.println("	\\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/");
+		System.out.println();
+		System.out.println("########## WELCOME TO THE SHOTKIT SHOP############");
+		System.out.println();
+		
+		System.out.println("Brand		: Canon");
+		System.out.println("Camera		: G7X_Mark_II");
+		System.out.println("Price		: RM 1779");
+		System.out.println("Features	: - Versatile Zoom Range");
+		System.out.println("		: - Robust Body");
+		System.out.println("		: - Good in LowLight");
+		System.out.println("		: - Great Image Quality");
+		System.out.println("		: - 20.1 Megapixel CMOS sensor ");
+		System.out.println("		: - New DIGIC 7 Imaging Processor");
+		System.out.println("Weight		: 302g");
+		System.out.println("Type		: Compact");
+		System.out.println("//////////////////////////////////////////////////");
+		
+		System.out.println("Brand		: Nikon");
+		System.out.println("Camera		: D5600_DX");
+		System.out.println("Price		: RM 2229");
+		System.out.println("Features	: - Exceptional Image Quality");
+		System.out.println("		: - Intuitive Controls");
+		System.out.println("		: - Great Battery Life");
+		System.out.println("		: - SnapBridge");
+		System.out.println("		: - 24.2MP DX format CMOS sensor ");
+		System.out.println("		: - Ex peed 4 image processor");
+		System.out.println("Weight		: 465g");
+		System.out.println("Type		: DSLR");
+		System.out.println("//////////////////////////////////////////////////");
+		
+		System.out.println("Brand		: FujiFilm");
+		System.out.println("Camera		: X100V");
+		System.out.println("Price		: RM 5899");
+		System.out.println("Features	: - Iconic Design");
+		System.out.println("		: - Amazing Lens Quality");
+		System.out.println("		: - Hybrid Viewfinder");
+		System.out.println("		: - Compact size");
+		System.out.println("		: - 26.1MP X-Trans CMOS 4 sensor");
+		System.out.println("		: - X-Processor 4 Image Processor");
+		System.out.println("Weight		: 478g");
+		System.out.println("Type		: Mirrorless");
+		System.out.println();
+		
+		System.out.println();
+		System.out.println("===================ACCESSORIES=============================PRICE========");
+		System.out.println("1. Memory Card SanDisk Extreme 32GB 90 Mb/s Card	: RM 32.90");
+		System.out.println("2. Memory Card SanDisk Extreme 64GB 90 Mb/s Card	: RM 61.90");
+		System.out.println("3. Memory Card SanDisk Extreme 128GB 90 Mb/s Card	: RM 119.00");
+		System.out.println("4. Tripod						: RM 75.50");
+		System.out.println("5. Battery						: RM 99.00");
+		System.out.println("6. Camera Strap						: RM 39.90");
+		System.out.println("7. Camera Bag						: RM 79.90");
+		System.out.println("8. Cleaning Kit						: RM 30.90");
+		System.out.println("9. Wide Angle Lens(24mm-35mm)				: RM 249.00");
+		System.out.println("10. Standard Lens(35mm-85mm)				: RM 349.00");
+		System.out.println("11. Short Telephoto Lens(85mm-200mm)			: RM 549.00");
+		System.out.println("========================================================================");
+		
+		System.out.println();
+		System.out.println("===========DELIVERY FEE==================PRICE=========");
+		System.out.println("	West Malaysia 		||	RM 6.90	");
+		System.out.println(" 	East MAlaysia		||	RM 11.90");
+		System.out.println(" 	Overseas		||	RM 20.90");
+		System.out.println("	Electronics Protection 	||	RM 150.20");
+		System.out.println("=======================================================");
+		System.out.println();
+		
+		System.out.println("=======ADD-ON WARRANTY====================PRICE========");
+		System.out.println("	  1 Year		||	  RM 50");
+		System.out.println("   	  2 Years		||	  RM 110");
+		System.out.println("   	  3 Years		||	  RM 150");
+		System.out.println("=======================================================");
+		System.out.println("# Manufacturer warranty --> 1 year");
+		System.out.println();
+		
+		System.out.println("PLEASE TAKE NOTE!~ THERE IS GIFTS AND DISCOUNT GIVEN FOR:");
+		System.out.println();
+		System.out.println("1. Camera price exceed RM 2000");
+		System.out.println(" - 32GB Memory Card");
+		System.out.println(" - Camera Strap");
+		System.out.println(" - 10% Discount for other Accessories");
+		System.out.println();
+		
+		System.out.println("2. Camera price exceed RM 3500");
+		System.out.println(" - 32GB Memory Card");
+		System.out.println(" - Camera Strap");
+		System.out.println(" - Camera Bag");
+		System.out.println(" - Cleaning Kit");
+		System.out.println(" - 15% Discount for other Accessories");
+		System.out.println();
+		
+		System.out.println("3. Camera price exceed RM 5000");
+		System.out.println(" - 32GB Memory Card");
+		System.out.println(" - Camera Strap");
+		System.out.println(" - Camera Bag");
+		System.out.println(" - Cleaning Kit");
+		System.out.println(" - Tripod");
+		System.out.println(" - Battery");
+		System.out.println(" - 20% Discount for other Accessories");
+		System.out.println();
+
+		System.out.println("Please key in the products you want according to the list above~");
+		System.out.println("<Put '0' if no value> AND <Make sure there is no spacing in the data you key>");
+		System.out.println();
+		System.out.print("Brand				: ");
+		brand= scan.next();
+		System.out.print("Camera				: ");
+		camera = scan.next();
+		System.out.print("Camera Price 			: RM ");
+		priceCam = scan.nextFloat();
+		System.out.print("Add-on(Accessories)		: ");
+		acs = scan.next();
+		System.out.print("Accessories's Price 		: RM ");
+		priceAcs = scan.nextFloat();
+		System.out.print("Delivery Fee			: RM ");
+		deliveryFee = scan.nextFloat();
+		System.out.print("Electronics Protection Fee	: RM ");
+		protectionFee = scan.nextFloat();
+		System.out.print("Add-on (Warranty)		: ");
+		warranty = scan.next();
+		System.out.print("Warranty Price 			: RM ");
+		priceWty = scan.nextFloat();
+		System.out.print("Discount % (Refer to list) 	: ");
+		discount = scan.nextInt();
+		
+		total = priceCam + deliveryFee + protectionFee + priceWty + priceAcs*((100-discount)/100);
+		
+		System.out.println("_____________________________________________________________________");
+		System.out.println("                  WELCOME TO THE SHOTKIT SHOP ^.^                    ");
+		System.out.println("_____________________________________________________________________");
+		System.out.println("Mr/Mrs " +name);
+		System.out.println();
+		System.out.printf("Camera				: %s %s\n", brand, camera);
+		System.out.println("Accessories			: "+acs);
+		System.out.println("Add-on Warranty			: "+warranty);
+		System.out.println();
+		
+		System.out.printf("Camera Price 			: RM %.2f\n", priceCam);
+		System.out.printf("Accessories's Price 		: RM %.2f\n", priceAcs);
+		System.out.printf("Delivery Fee			: RM %.2f\n", deliveryFee);
+		System.out.printf("Electronics Protection Fee	: RM %.2f\n", protectionFee);
+		System.out.printf("Warranty Price			: RM %.2f\n", priceWty);
+		System.out.println("_____________________________________________________________________");
+		System.out.printf("Total				: RM %.2f\n", total);
+		System.out.println("_____________________________________________________________________");
+		
+		System.out.println();
+		System.out.println("Thanks you very much! See you again ~");
+		
+	}
+
+}
