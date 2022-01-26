@@ -1,0 +1,589 @@
+Output 1:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 1
+
+===================CAMERA LISTS====================
+What you consider when purchasing a camera?
+1 Camera's Type
+2 Camera's Brand
+3 Camera's Price
+Please select an option: 2
+
+--------------Camera's Brand---------------
+1 Canon
+2 Nikon
+3 FujiFilm
+4 Sony
+5 Leica
+Please select an option: 3
+
+************************ FUJIFILM **************************
+////////////////////////////////////////////////////////////
+Brand		: FujiFilm
+Camera		: X-T30
+Price		: RM 3379
+Features	: - Great Value for Money
+		: - Robust Body
+		: - Amazing Autofocus
+		: - Excellent Image Quality
+		: - Improved Low-Light Perfomance
+		: - 26.1MP BSI APS-C X-Trans CMOS 4 image sensor
+		: - X-Processor 4 quad-core CPU
+Weight		: 383g
+Type		: Compact
+////////////////////////////////////////////////////////////
+Brand		: FujiFilm
+Camera		: X-A7
+Price		: RM 2999
+Features	: - Film mode
+		: - retro look
+		: - HD picture quality
+		: - 24.2 Megapixel APS-C CMOS sensor
+		: - Weight: 271g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+Brand		: FujiFilm
+Camera		: X100V
+Price		: RM 5899
+Features	: - Iconic Design
+		: - Amazing Lens Quality
+		: - Hybrid Viewfinder
+		: - Compact size
+		: - 26.1MP X-Trans CMOS 4 sensor
+		: - X-Processor 4 Image Processor
+		: - Weight: 478g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+Do you want to keep going?(Y/N): Y
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 1
+
+===================CAMERA LISTS====================
+What you consider when purchasing a camera?
+1 Camera's Type
+2 Camera's Brand
+3 Camera's Price
+Please select an option: 3
+
+--------------Camera's Price---------------
+1 RM1500 - RM3000
+2 RM3001 - RM5000
+3 RM5001 - RM10000
+4 More than RM10001
+Please select an option: 1
+
+********************* RM1500 ~ RM3000 **********************
+////////////////////////////////////////////////////////////
+Brand		: Canon
+Camera		: G7X_Mark_II
+Price		: RM 1779
+Features	: - Versatile Zoom Range
+		: - Robust Body
+		: - Good in LowLight
+		: - Great Image Quality
+		: - 20.1 Megapixel CMOS sensor 
+		: - New DIGIC 7 Imaging Processor
+Weight		: 302g
+Type		: Compact
+////////////////////////////////////////////////////////////
+Brand		: Canon
+Camera		: M200
+Price		: RM 1999
+Features	: - cost effective
+		: - Easy to use
+		: - novice camera
+		: - 24.1MP APS-C CMOS Sensor
+		: - DIGIC 8 Image Processor
+		: - Weight: 262g
+Weight		: 262g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+Brand		: FujiFilm
+Camera		: X-T30
+Price		: RM 3379
+Features	: - Great Value for Money
+		: - Robust Body
+		: - Amazing Autofocus
+		: - Excellent Image Quality
+		: - Improved Low-Light Perfomance
+		: - 26.1MP BSI APS-C X-Trans CMOS 4 image sensor
+		: - X-Processor 4 quad-core CPU
+Weight		: 383g
+Type		: Compact
+////////////////////////////////////////////////////////////
+Brand		: Nikon
+Camera		: D5600 DX
+Price		: RM 2229
+Features	: - Exceptional Image Quality
+		: - Intuitive Controls
+		: - Great Battery Life
+		: - SnapBridge
+		: - 24.2MP DX format CMOS sensor
+		: - Ex peed 4 image processor
+		: - Weight: 465g
+Type		: DSLR
+////////////////////////////////////////////////////////////
+Brand		: Canon
+Camera		: M50
+Price		: RM 2949
+Features	: - Compact
+		: - Easy to use
+		: - Built-in Electronic Viewfinder
+		: - Fast & Accurate
+		: - 24.1Megapixel APS-C CMOS sensor 
+		: - DIGIC 8 Image Processor
+		: - Weight: 387g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+Brand		: Sony
+Camera		: A6000
+Price		: RM 2199
+Features	: - Hybrid AF
+		: - Tilting LCD
+		: - Up to 11 FPS Continuous Shooting
+		: - Compact
+		: - 24.2MP full frame image sensor
+		: - BIONZ X Image Processor
+		: - Weight: 344g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+Do you want to keep going?(Y/N): N
+
+
+
+Output 2:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 2
+
+===================ACCESSORIES=============================PRICE========
+1. Memory Card SanDisk Extreme 32GB 90 Mb/s Card	: RM 32.90
+2. Memory Card SanDisk Extreme 64GB 90 Mb/s Card	: RM 61.90
+3. Memory Card SanDisk Extreme 128GB 90 Mb/s Card	: RM 119.00
+4. Tripod						: RM 75.50
+5. Battery						: RM 99.00
+6. Camera Strap						: RM 39.90
+7. Camera Bag						: RM 79.90
+8. Cleaning Kit						: RM 30.90
+9. Wide Angle Lens(24mm-35mm)				: RM 249.00
+10. Standard Lens(35mm-85mm)				: RM 349.00
+11. Short Telephoto Lens(85mm-200mm)			: RM 549.00
+========================================================================
+Do you want to keep going?(Y/N): N
+
+
+
+Output 3:
+Please enter your name: lim
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 3
+
+===========DELIVERY FEE==================PRICE=========
+	West Malaysia 		||	RM 6.90	
+ 	East MAlaysia		||	RM 11.90
+ 	Overseas		||	RM 20.90
+	Electronics Protection 	||	RM 150.20
+=======================================================
+
+=======ADD-ON WARRANTY====================PRICE========
+	  1 Year		||	  RM 50
+   	  2 Years		||	  RM 110
+   	  3 Years		||	  RM 150
+=======================================================
+# Manufacturer warranty --> 1 year
+
+Do you want to keep going?(Y/N): N
+
+
+
+Output4:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 4
+
+================== GIFT & DISCOUNT ====================
+
+1. Camera price exceed RM 2000
+ - 32GB Memory Card
+ - Camera Strap
+ - 10% Discount for other Accessories
+
+2. Camera price exceed RM 3500
+ - 32GB Memory Card
+ - Camera Strap
+ - Camera Bag
+ - Cleaning Kit
+ - 15% Discount for other Accessories
+
+3. Camera price exceed RM 5000
+ - 32GB Memory Card
+ - Camera Strap
+ - Camera Bag
+ - Cleaning Kit
+ - Tripod
+ - Battery
+ - 20% Discount for other Accessories
+=======================================================
+Do you want to keep going?(Y/N): N
+
+
+Output 4:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 4
+
+================== GIFT & DISCOUNT ====================
+
+1. Camera price exceed RM 2000
+ - 32GB Memory Card
+ - Camera Strap
+ - 10% Discount for other Accessories
+
+2. Camera price exceed RM 3500
+ - 32GB Memory Card
+ - Camera Strap
+ - Camera Bag
+ - Cleaning Kit
+ - 15% Discount for other Accessories
+
+3. Camera price exceed RM 5000
+ - 32GB Memory Card
+ - Camera Strap
+ - Camera Bag
+ - Cleaning Kit
+ - Tripod
+ - Battery
+ - 20% Discount for other Accessories
+=======================================================
+Do you want to keep going?(Y/N): N
+
+
+Output 5:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 5
+
+Do you want to buy camera(s)?(Y/N): Y
+
+=====================PRICE LISTS=====================
+   Camera                                Price
+-------------------------------------------------
+1. Canon G7X Mark II                   : RM 1779
+2. Canon M200                          : RM 1999
+3. Sony A6000                          : RM 2199
+4. Nikon D5600 DX                      : RM 2229
+5. Canon M50                           : RM 2949
+6. FujiFilm X-A7                       : RM 2999
+7. FujiFilm X-T30                      : RM 3379
+8. Sony A6400                          : RM 3899
+9. Canon 90D                           : RM 4599
+10. Nikon D750                         : RM 5090
+11. FujiFilm X100V                     : RM 5899
+12. Sony A7 III                        : RM 8588.90
+13. Nikon D850                         : RM 9099
+14. Leica Q2                           : RM 25260
+15. Leica M10                          : RM 27352
+=====================================================
+How many camera you want to buy?: 2
+Please enter the code number of camera you want to buy(1-15): 5
+////////////////////////////////////////////////////////////
+Brand		: Canon
+Camera		: M50
+Price		: RM 2949
+Features	: - Compact
+		: - Easy to use
+		: - Built-in Electronic Viewfinder
+		: - Fast & Accurate
+		: - 24.1Megapixel APS-C CMOS sensor 
+		: - DIGIC 8 Image Processor
+		: - Weight: 387g
+Type		: Mirrorless
+////////////////////////////////////////////////////////////
+
+Please enter the code number of camera you want to buy(1-15): 14
+////////////////////////////////////////////////////////////
+Brand		: Leica
+Camera		: Q2
+Price		: RM 25260
+Features	: - Ultimate Image Quality
+		: - Beautiful Design
+		: - Best EVF/Screen
+		: - 47.3 Megapixel full frame sensor
+Weight		: 718g
+Type		: Compact
+////////////////////////////////////////////////////////////
+
+Do you wants to buy an accessories?(Y/N) : Y
+
+=====================ACCESSORIES=====================
+   Accessories                           Price
+-----------------------------------------------------
+1. Memory Card SanDisk Extreme 32GB    : RM 32.90
+2. Memory Card SanDisk Extreme 64GB    : RM 61.90
+3. Memory Card SanDisk Extreme 128GB   : RM 119.00
+4. Tripod                              : RM 75.50
+5. Battery                             : RM 99.00
+6. Camera Strap                        : RM 39.90
+7. Camera Bag                          : RM 79.90
+8. Cleaning Kit                        : RM 30.90
+9. Wide Angle Lens(24mm-35mm)          : RM 249.00
+10. Standard Lens(35mm-85mm)           : RM 349.00
+11. Short Telephoto Lens(85mm-200mm)   : RM 549.00
+=====================================================
+How many accessories you want to buy?: 3
+Please enter the code number of accessory you want to buy(1-11): 7
+Accessory: Camera Bag
+Accessory's Price: RM79.90
+
+Please enter the code number of accessory you want to buy(1-11): 9
+Accessory: Wide Angle Lens(24mm-35mm)
+Accessory's Price: RM249.00
+
+Please enter the code number of accessory you want to buy(1-11): 3
+Accessory: Memory Card SanDisk Extreme 128GB
+Accessory's Price: RM119.00
+
+Total Accessories Price: RM447.90
+
+====================DELIVERY FEE=====================
+   Delivery Fee                          Price 
+-----------------------------------------------------
+1. West Malaysia                         RM 6.90	
+2. East MAlaysia                         RM 11.90
+3. Overseas                              RM 20.90
+   Electronics Protection                RM 150.20
+======================WARRANTY=======================
+   Add-On Warranty                       Price   
+-----------------------------------------------------
+1. 1 Year                                RM 50
+2. 2 Years                               RM 110
+3. 3 Years                               RM 150
+=====================================================
+Protection Fee: RM150.20
+# Manufacturer warranty --> 1 year
+Please enter the code number of delivery you prefer(1-3):2
+Delivery Type: East Malaysia
+Delivery Fee: RM11.90
+
+Do you want to add-on Electronics Protection?(Y/N): Y
+Protection Fee: RM150.20
+
+Add-on Warranty (Years) max=3	: 2
+Warranty: 2years
+Warranty Fee: RM110.00
+_____________________________________________________________________
+                  WELCOME TO THE SHOTKIT SHOP ^.^                    
+                             INVOICE                                 
+_____________________________________________________________________
+SHOTKIT SHOP					2022-01-26
+06-2862660
+shotkit@gmail.com
+
+Mr/Mrs limhuiqi
+0166749235
+lim@gmail.com
+
+Number of camera                              : 2
+Number of accessories                         : 3
+Add-on Warranty                               : 2years
+
+Total camera(s) price                         : RM 28209.00
+Total accessories's price                     : RM 447.90
+Discount for add-on accessories               : 20%
+
+Delivery Fee                                  : RM 11.90
+Electronics Protection Fee                    : RM 150.20
+Warranty Price                                : RM 110.00
+_____________________________________________________________________
+Total                                         : RM 28481.10
+_____________________________________________________________________
+
+You'll get 2 sets of free gifts below!: 
+ - 32GB Memory Card
+ - Camera Strap
+ - Camera Bag
+ - Cleaning Kit
+ - Tripod
+ - Battery
+
+Thank you very much! See you again ~
+Do you want to keep going?(Y/N): N
+
+
+Output 6:
+Please enter your name: limhuiqi
+Please enter your contact number: 0166749235
+Please enter your email: lim@gmail.com
+ 	              _____             
+  	     ___     / [X] \    _____    
+	 __.|___|.__/_______\__-LLLLL-__
+	/                               \
+	|===============================|
+	|            .-'''-.     [__]   |
+	|           /.""""".\           |
+	|          // /" "\ \\_)        |
+	|          \\ \___/ //          |
+	|           \`.___.'/           |
+	|============`-...-' ===========|
+	\@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@@/
+
+########## WELCOME TO THE SHOTKIT SHOP ##########
+
+---------------------MENU------------------------
+1 Cameras Description List
+2 Accessories List
+3 Delivery and Warranty List
+4 Discount / Free Gift List
+5 To Buy
+6 Exit
+Please select a menu option: 6
+
+Thank you very much! See you again ~
+
+
