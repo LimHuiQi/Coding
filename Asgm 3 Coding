@@ -372,7 +372,7 @@ public class Camera {
 			if (buyCam=='Y'|| buyCam=='y')
 			{
 				
-				System.out.print("Please enter the code number of camera(s) you want to buy(1-15): ");
+				System.out.print("Please enter the code number of camera you want to buy(1-15): ");
 				camC  = scan.nextInt();
 				System.out.println("////////////////////////////////////////////////////////////");
 				
@@ -635,13 +635,12 @@ public class Camera {
 				keepGoing = keepGoingMethod(keepGoing);
 			}
 			
-			
-			if (priceCam > 2000)
-				discount = 10;
+			if (priceCam > 5000)
+				discount = 20;
 			else if (priceCam > 3500)
 				discount = 15;
-			else if (priceCam > 5000)
-				discount = 20;
+			else if (priceCam > 2000)
+				discount = 10;
 			
 		
 			total = totCam + deliveryFee + protectionFee + priceWty + totAcs*((100-discount)/100);
@@ -677,21 +676,28 @@ public class Camera {
 			System.out.println();
 			
 			System.out.printf("You'll get %d sets of free gifts below!: \n", numCam);
-			if (totCam > 2000)
-				freeGift2000();
-			else if (totCam > 3500)
-				freeGift3500();
-			else if (totCam > 5000)
+			if (totCam > 5000)
+			{
 				freeGift5000();
+			}
+			else if (totCam > 3500)
+			{
+				freeGift3500();
+			}
+			else if (totCam > 2000)
+			{
+				freeGift2000();
+			}
 			
 			
 			System.out.println();
 			System.out.println("Thank you very much! See you again ~");
-		
+			keepGoing = 'N';
 			break;
 		
 		case 6: 
 			System.out.println("Thank you very much! See you again ~");
+			keepGoing = 'N';
 			break;
 			
 		default: 
